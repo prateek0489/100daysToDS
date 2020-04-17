@@ -1,2 +1,2 @@
 # 100daysToDS
-I will be publishing my 100 days of DS code here
+This repository will keep the code for my 100 days to DS challange to myself. I will be adding all the codes along with supporting content here.
